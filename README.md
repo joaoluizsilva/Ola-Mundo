@@ -1,2 +1,3 @@
-# Ola Mundo
- Curso em video Git e GitHub
+# Olá,  Mundo!
+Curso em video Git e GitHub
+Repositório criado pela live.
