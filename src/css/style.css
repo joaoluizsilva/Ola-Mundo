@@ -1,0 +1,37 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#conteudo{
+    width: 100vw;
+    height: 100vh;
+    background-color: #F2D398;
+    
+}
+.linha-1 , .linha-2 {
+    width: 100vw;
+    height: 300px;
+}
+.linha-1 {
+    border: 1px solid #DE1A1A;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.coluna {
+    width:  220px;
+    height: 220px;
+    background-color: #628395;
+    border-radius: 20px;
+}
+.linha-2 {
+    border: 1px solid #D78521;
+}
+
+.color {
+    background-color: #F2D398;
+    background-color: #DE1A1A;
+    background-color: #F7B1C3;
+    background-color: #D78521;
+    background-color: #628395;
+}
